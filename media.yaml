@@ -8,3 +8,4 @@ payload:
 - DOMAIN,789.123456.al
 - DOMAIN,emby.misakaf.org
 - DOMAIN-SUFFIX,misakaf.org
+- DOMAIN-SUFFIX,nanflix.net
